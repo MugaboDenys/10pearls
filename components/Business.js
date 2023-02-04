@@ -8,10 +8,10 @@ import arrowleft from "../public/chevron-left.svg";
 import arrowleft1 from "../public/chevron-left1.svg";
 import { useState } from "react";
 import Business1 from "./Business1";
-import innovation from "../public/innovation.webp"
-import modernization from "../public/modernization.webp"
-import digitalization from "../public/digitalization.webp"
-import augmentation from "../public/augmentation.webp"
+import innovation from "../public/Innovation.webp"
+import modernization from "../public/Modernization.webp"
+import digitalization from "../public/Digitalization.webp"
+import augmentation from "../public/Augmentation.webp"
 import Business2 from "./Business2";
 
 const Business = () => {

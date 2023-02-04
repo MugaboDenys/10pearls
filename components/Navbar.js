@@ -42,7 +42,6 @@ const Navbar = () => {
                                             <Link key={index} href={'/'}  className="block hover:text-blue-800" >{item.title}</Link>
                                         ))}
                                     </div>
-                                    
                                 </div>
                                 <div className={`absolute left-0 right-0 top-20 pt-5 ${link.title == "Services" ? "hidden group-hover:block" : "hidden"} w-full bg-white bg-opacity-50 h-56 backdrop-filter backdrop-blur-lg`}> 
                                     <ServiceSubmenu/>
